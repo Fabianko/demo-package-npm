@@ -1,0 +1,16 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Ejemplo de packete de node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Fabian Arismendi <fabian.arismendi@usach.cl>",
+  "license": "MIT"
+}

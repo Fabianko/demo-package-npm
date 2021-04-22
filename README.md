@@ -14,3 +14,9 @@ Se puede setear elementos previos y cada vez que se crea un package se setean es
 > npm set init.author.name "Fabian Arismendi"
 > npm set init.license "MIT"
 
+Ver los paquetes instalados globales
+> npm list -g --depth 0
+
+En caso de instalar packages globales y lanza errores de permisos
+https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
+

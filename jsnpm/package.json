@@ -1,12 +1,22 @@
 {
   "name": "jsnpm",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Ejemplo de packete de node",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Fabian Arismendi <fabian.arismendi@usach.cl>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.24.0"
+  }
 }

@@ -32,3 +32,18 @@ actualizar paquetes
 Versionado semantico
 ![versionNPM](https://static.platzi.com/media/user_upload/wheelbarrel-no-tilde-caret-white-bg-w1000-72ca1a72-4c7f-4abe-8482-425c01a72f89.jpg)
 
+ver detalle de una ejecucion
+> npm "comando" --dd
+
+limpiar packetes con errores
+> npm cache clean --force
+> npm cache verify
+
+borrar packetes instalados
+> rm -rf node_modules/
+
+
+otra opciones de borrar node modules es con rimraf
+> sudo npm install -g rimraf
+> rimraf node_modules/
+

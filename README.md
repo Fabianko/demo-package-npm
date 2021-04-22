@@ -20,3 +20,15 @@ Ver los paquetes instalados globales
 En caso de instalar packages globales y lanza errores de permisos
 https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
 
+Ver paquetes desactualizados
+> npm outdate
+
+Ver detalle de paquetes desacutalizados
+> npm outdate --dd
+
+actualizar paquetes
+> npm update
+
+Versionado semantico
+![versionNPM](https://static.platzi.com/media/user_upload/wheelbarrel-no-tilde-caret-white-bg-w1000-72ca1a72-4c7f-4abe-8482-425c01a72f89.jpg)
+

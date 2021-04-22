@@ -47,3 +47,9 @@ otra opciones de borrar node modules es con rimraf
 > sudo npm install -g rimraf
 > rimraf node_modules/
 
+Seguridad
+Para ver posibles problemas 
+> npm audit
+Para reparar automaticamente algunas tareas
+> npm audit fix
+

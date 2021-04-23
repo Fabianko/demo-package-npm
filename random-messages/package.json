@@ -13,8 +13,8 @@
   ],
   "author": "Fabian Arismendi <fabian.arismendi@usach.cl>",
   "license": "MIT",
-  "bin":{
+  "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal":true
+  "preferGlobal": true
 }

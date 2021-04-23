@@ -53,3 +53,7 @@ Para ver posibles problemas
 Para reparar automaticamente algunas tareas
 > npm audit fix
 
+para instalar un paquete npm de forma global
+probando con random-message
+> sudo npm link
+> random-msg
